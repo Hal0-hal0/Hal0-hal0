@@ -98,12 +98,9 @@ I enjoy building projects that aren't just technically interesting, but actually
 
 ---
 
-## 📊 GitHub
+## 📊 Portfolio
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
+[View my portfolio](https://ajax-dev-ajax-portfolio.vercel.app/)
 
 ---
 
